@@ -1,0 +1,47 @@
+[
+    {
+        "First Name": "Chahat",
+        "Middle Name": "-",
+        "Last Name": "Chugh",
+        "Email": "chahat.chugh@sourcefuse.com",
+        "Phone": "8295376789",
+        "Role": "superadmin",
+        "Address": "India"
+    },
+    {
+        "First Name": "Neil",
+        "Middle Name": "-",
+        "Last Name": "Irani",
+        "Email": "neilrirani@gmail.com",
+        "Phone": "408-1111111",
+        "Role": "admin",
+        "Address": "USA"
+    },
+    {
+        "First Name": "Tom",
+        "Middle Name": "-",
+        "Last Name": "Fay",
+        "Email": "tom.fay@gmail.com",
+        "Phone": "109-1101421",
+        "Role": "admin",
+        "Address": "Australia"
+    },
+    {
+        "First Name": "Tom",
+        "Middle Name": "-",
+        "Last Name": "Hanks",
+        "Email": "tom.hanks@gmail.com",
+        "Phone": "408-1111111",
+        "Role": "subscriber",
+        "Address": "USA"
+    },
+    {
+        "First Name": "Romin",
+        "Middle Name": "-",
+        "Last Name": "Irani",
+        "Email": "romin.irani@gmail.com",
+        "Phone": "408-1234567",
+        "Role": "subscriber",
+        "Address": "London"
+    }
+]
